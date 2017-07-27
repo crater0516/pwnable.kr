@@ -1,3 +1,5 @@
+// gcc -o getkey getkey.c
+
 #include <stdio.h>
 #include <stdlib.h>
 
